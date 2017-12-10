@@ -8,6 +8,8 @@
 
 Wiki с инструкциями по использованию компонентов: https://github.com/DmitryBulyga/Controls_For_Processing/wiki
 
+Свои вопросы пишите сюда: https://github.com/DmitryBulyga/Controls_For_Processing/issues
+
 На данный момент библиотека содержит следующие компоненты:
 
 1. TextBox (текстовое поле)
