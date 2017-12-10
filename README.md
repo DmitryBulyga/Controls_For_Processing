@@ -2,6 +2,8 @@
 
 Исходные коды элементов управления, написанные на processing'е, следует размещать в ветке Processing_files, Java-файлы - в ветке master.
 
+Ссылка на ветку Processing-files: https://github.com/DmitryBulyga/Controls_For_Processing/tree/Processing-files
+
 После окончания работы над данной библиотекой в ветке master будут доступны исходные коды всех компонентов на Java и jar- библиотека
 
 Исходные коды компонентов хранятся в пакете iolimp.
